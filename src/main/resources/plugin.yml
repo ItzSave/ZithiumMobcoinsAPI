@@ -1,0 +1,4 @@
+name: ZithiumMobcoinsAPI
+version: '${version}'
+main: net.zithium.mobcoins.ZithiumMobcoinsAPI
+api-version: '1.20'
