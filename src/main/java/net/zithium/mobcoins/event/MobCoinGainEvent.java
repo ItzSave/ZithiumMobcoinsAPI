@@ -1,4 +1,4 @@
-package net.zithium.mobcoins.events;
+package net.zithium.mobcoins.event;
 
 import net.zithium.mobcoins.player.PlayerData;
 import org.bukkit.entity.Player;
